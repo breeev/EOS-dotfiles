@@ -4,6 +4,6 @@ Whether you have all these apps already or not, they won't hurt but **you may wa
 
 ## Software list
 - strawberry
-- compiz
+- picom
 - alacritty
 - mc
